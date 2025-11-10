@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+This is a session on AEM Edge delivery advanced training
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
